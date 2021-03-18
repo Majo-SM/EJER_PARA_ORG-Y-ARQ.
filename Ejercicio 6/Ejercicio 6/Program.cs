@@ -1,6 +1,7 @@
 ﻿
 //Escribir un programa en C# (console application) para imprimir la suma, multiplicar, 
 //restar,dividir y el resto o residuo de dos números previamente ingresados.
+//pertenece a: Santana Minaya María José.  3"A".
 using System;
 namespace Ejercicio_6
 {
