@@ -1,0 +1,26 @@
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.exe
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.deps.json
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.runtimeconfig.json
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.runtimeconfig.dev.json
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.dll
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.pdb
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.csprojAssemblyReference.cache
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.AssemblyInfoInputs.cache
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.AssemblyInfo.cs
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.csproj.CoreCompileInputs.cache
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.dll
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.pdb
+C:\Users\lo\source\repos\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.genruntimeconfig.cache
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.exe
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.deps.json
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.runtimeconfig.json
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.runtimeconfig.dev.json
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.dll
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\bin\Debug\netcoreapp3.1\Ejercicio 6.pdb
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.csprojAssemblyReference.cache
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.AssemblyInfoInputs.cache
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.AssemblyInfo.cs
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.dll
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.pdb
+E:\Nueva carpeta\Ejercicio 6\Ejercicio 6\obj\Debug\netcoreapp3.1\Ejercicio 6.genruntimeconfig.cache
